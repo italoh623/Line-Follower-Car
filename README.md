@@ -1,6 +1,11 @@
 # Line-Follower-Car
-Projeto de Introdução à Computação - Cin, UFPE.
+
+A Introduction to Computing Project - Cin, UFPE.
 
 
-## Equipe:
-Esta é uma modificação de 2018.1, onde [Ítalo Henrique](https://github.com/italoh623), [Maria Eduarda](https://github.com/mesps), Tales Tomaz e Thayná Gitirana foram contribuidores.
+## The team:
+This is a modification from 2018.1, in which these were the contributors:
+- [Ítalo Henrique](https://github.com/italoh623)
+- [Maria Eduarda](https://github.com/mesps)
+- [Tales Tomaz](https://github.com/tta13)
+- [Thayná Gitirana](https://github.com/gitirana) 
